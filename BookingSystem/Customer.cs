@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace BookingSystem
 {
-    class Program
+   class Customer
     {
-        static void Main(string[] args)
+
+        public void NewCustomer()
         {
+            
+
+
         }
+             
     }
 }
